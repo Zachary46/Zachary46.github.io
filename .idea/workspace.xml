@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8da39b6e-c998-453c-97ab-19a9b94b7b13" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/Android开发中如何使用抓包工具Fiddler更改后台接口数据.md" afterPath="$PROJECT_DIR$/_posts/Android2018-2-2-开发中如何使用抓包工具Fiddler更改后台接口数据.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2018-8-6-解决Charles https抓包显示&lt;unknown&gt;.md" afterPath="$PROJECT_DIR$/_posts/2018-8-6-解决Charles https抓包显示&lt;unknown&gt;.md" />
     </list>
     <ignored path="Zachary46.github.io.iws" />
@@ -118,8 +116,8 @@
       <file leaf-file-name="2018-8-6-解决Charles https抓包显示&lt;unknown&gt;.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2018-8-6-解决Charles https抓包显示&lt;unknown&gt;.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.3114754">
-              <caret line="64" column="5" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.795082">
+              <caret line="64" column="17" selection-start-line="64" selection-start-column="17" selection-end-line="64" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -577,8 +575,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-8-6-解决Charles https抓包显示&lt;unknown&gt;.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.3114754">
-          <caret line="64" column="5" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.795082">
+          <caret line="64" column="17" selection-start-line="64" selection-start-column="17" selection-end-line="64" selection-end-column="17" />
           <folding />
         </state>
       </provider>
