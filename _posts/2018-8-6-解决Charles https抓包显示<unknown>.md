@@ -18,7 +18,8 @@ Charles类似Windows版的Fiddler（没用过Fiddler的都是小菜鸡中的战�
 
 ## 安装证书
 
-##### 电脑端
+##### **电脑端**
+
 
 点击 **Help**  -- **SSL Proxying** -- **Install Charles Root Certificate**
 
@@ -36,7 +37,7 @@ Charles类似Windows版的Fiddler（没用过Fiddler的都是小菜鸡中的战�
 
 ![WechatIMG11.jpeg](https://upload-images.jianshu.io/upload_images/6544996-3a4201b8164c4579.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-##### 手机端
+##### **手机端**
 
 点击 **Help**  -- **SSL Proxying** -- **Install Charles Root Certificate on a Mobile Device or Remote Browser**
 
@@ -62,7 +63,7 @@ Charles类似Windows版的Fiddler（没用过Fiddler的都是小菜鸡中的战�
 
 ![勾引.png](https://upload-images.jianshu.io/upload_images/6544996-31b25cbd963d286c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
- # 随手点个赞，长高十公分！！!
+ ## 随手点个赞，长高十公分！！!
 
 
 
