@@ -67,7 +67,7 @@ Charles类似Windows版的Fiddler（没用过Fiddler的都是小菜鸡中的战�
 
 **可通过以下途径关注本人：**
 
-- [个人网站](https://zachary46.xyz)
+- [个人网站](http://zachary46.xyz)
 - [简书](https://www.jianshu.com/u/c6a23c2b7697)
 - [Github](https://github.com/Zachary46)
 - [CSDN博客](https://blog.csdn.net/Zachary_46)
