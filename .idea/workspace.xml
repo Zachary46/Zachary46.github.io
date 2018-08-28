@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8da39b6e-c998-453c-97ab-19a9b94b7b13" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/background-cover.png" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/background-cover.jpg" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/background-cover.jpg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/background-cover.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/vno.css" afterPath="$PROJECT_DIR$/assets/css/vno.css" />
     </list>
     <ignored path="Zachary46.github.io.iws" />
@@ -48,8 +48,8 @@
       <file leaf-file-name="vno.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/vno.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.36870748">
-              <caret line="348" column="23" selection-start-line="348" selection-start-column="23" selection-end-line="348" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.16462585">
+              <caret line="338" column="14" selection-start-line="338" selection-start-column="14" selection-end-line="338" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -669,8 +669,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/vno.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36870748">
-          <caret line="348" column="23" selection-start-line="348" selection-start-column="23" selection-end-line="348" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.16462585">
+          <caret line="338" column="14" selection-start-line="338" selection-start-column="14" selection-end-line="338" selection-end-column="14" />
           <folding />
         </state>
       </provider>
