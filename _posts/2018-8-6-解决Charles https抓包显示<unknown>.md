@@ -65,5 +65,12 @@ Charles类似Windows版的Fiddler（没用过Fiddler的都是小菜鸡中的战�
 
 # 随手点个赞，长高十公分！！!
 
+**可通过以下途径关注本人：**
 
+- [个人网站](https://zachary46.xyz)
+- [简书](https://www.jianshu.com/u/c6a23c2b7697)
+- [Github](https://github.com/Zachary46)
+- [CSDN博客](https://blog.csdn.net/Zachary_46)
+- [博客园](http://www.cnblogs.com/Zachary46)
+- [掘金](https://juejin.im/user/5b57e9a16fb9a04f8e1432ef)
 

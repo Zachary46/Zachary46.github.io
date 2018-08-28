@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2017-5-16-Android Studio修改apk打包生成名称"
+title:  "Android Studio修改apk打包生成名称"
 category: Android Studio
 date:   2017-5-16
 categories: Android
@@ -38,12 +38,9 @@ variant.name软件名称，variant.versionName软件版本号，比如你的软�
 
 **可通过以下途径关注本人：**
 
-[个人网站](https://link.juejin.im/?target=http%3A%2F%2Fzachary46.xyz)
-
-[Github](https://link.juejin.im/?target=https%3A%2F%2Fgithub.com%2FZachary46)
-
-[CSDN博客](https://blog.csdn.net/Zachary_46)
-
-[博客园](https://link.juejin.im/?target=https%3A%2F%2Fwww.cnblogs.com%2FZachary46)
-
-[掘金](https://juejin.im/user/5b57e9a16fb9a04f8e1432ef)
+- [个人网站](https://zachary46.xyz)
+- [简书](https://www.jianshu.com/u/c6a23c2b7697)
+- [Github](https://github.com/Zachary46)
+- [CSDN博客](https://blog.csdn.net/Zachary_46)
+- [博客园](http://www.cnblogs.com/Zachary46)
+- [掘金](https://juejin.im/user/5b57e9a16fb9a04f8e1432ef)

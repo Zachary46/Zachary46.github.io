@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8da39b6e-c998-453c-97ab-19a9b94b7b13" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-3-1-Android 6.0、7.0、8.0、9.0适配.md" afterPath="$PROJECT_DIR$/_posts/2017-3-1-Android 6.0、7.0、8.0、9.0适配.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-5-16-Android Studio修改apk打包生成名称.md" afterPath="$PROJECT_DIR$/_posts/2017-5-16-Android Studio修改apk打包生成名称.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2018-8-6-解决Charles https抓包显示&lt;unknown&gt;.md" afterPath="$PROJECT_DIR$/_posts/2018-8-6-解决Charles https抓包显示&lt;unknown&gt;.md" />
     </list>
@@ -42,7 +42,7 @@
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="0.0">
+              <first_editor vertical-scroll-proportion="-2.162393">
                 <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                 <folding />
               </first_editor>
@@ -51,15 +51,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-5-16-Android Studio修改apk打包生成名称.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2017-5-16-Android Studio修改apk打包生成名称.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2017-5-16-Android Studio修改apk打包生成名称.md">
           <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="0.8076923">
-                <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
+              <first_editor vertical-scroll-proportion="0.7222222">
+                <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="45" selection-end-column="55" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -84,8 +84,8 @@
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="0.0">
-                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <first_editor vertical-scroll-proportion="0.8119658">
+                <caret line="38" column="55" selection-start-line="38" selection-start-column="55" selection-end-line="38" selection-end-column="55" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -93,15 +93,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-8-6-解决Charles https抓包显示&lt;unknown&gt;.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2018-8-6-解决Charles https抓包显示&lt;unknown&gt;.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2018-8-6-解决Charles https抓包显示&lt;unknown&gt;.md">
           <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="0.0">
-                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <first_editor vertical-scroll-proportion="0.95726496">
+                <caret line="74" column="55" selection-start-line="74" selection-start-column="55" selection-end-line="74" selection-end-column="55" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -161,9 +161,9 @@
         <option value="$PROJECT_DIR$/aboutme.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/assets/css/vno.css" />
+        <option value="$PROJECT_DIR$/_posts/2017-5-16-Android Studio修改apk打包生成名称.md" />
         <option value="$PROJECT_DIR$/_posts/2017-3-1-Android 6.0、7.0、8.0、9.0适配.md" />
         <option value="$PROJECT_DIR$/_posts/2018-8-6-解决Charles https抓包显示&lt;unknown&gt;.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-5-16-Android Studio修改apk打包生成名称.md" />
       </list>
     </option>
   </component>
@@ -794,47 +794,7 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-3-1-Android 6.0、7.0、8.0、9.0适配.md">
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-8-6-解决Charles https抓包显示&lt;unknown&gt;.md">
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.0">
+          <first_editor vertical-scroll-proportion="-2.162393">
             <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding />
           </first_editor>
@@ -854,8 +814,48 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.8076923">
-            <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
+          <first_editor vertical-scroll-proportion="0.7222222">
+            <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="45" selection-end-column="55" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-3-1-Android 6.0、7.0、8.0、9.0适配.md">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor vertical-scroll-proportion="0.8119658">
+            <caret line="38" column="55" selection-start-line="38" selection-start-column="55" selection-end-line="38" selection-end-column="55" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-8-6-解决Charles https抓包显示&lt;unknown&gt;.md">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor vertical-scroll-proportion="0.95726496">
+            <caret line="74" column="55" selection-start-line="74" selection-start-column="55" selection-end-line="74" selection-end-column="55" />
             <folding />
           </first_editor>
           <second_editor />
