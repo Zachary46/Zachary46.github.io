@@ -7,7 +7,7 @@ categories: Android
 
 ---
 
-Jenkins这东西搭建起来真是一点也不省心啊，看着别人的教程摸着石头过河，配置的东西有点多啊，稍有不慎，就构建不成功啦！即使步骤跟别人一样也会报各种乱七八糟的错误啊哈哈~~这东西只能佛系搭建~~在经历几十次的随缘构建之后，终于构建成功啦~~好感人！眼泪掉下来。。。。。。在此做下记录，造福广大群众！阿弥陀佛~~废话少说，且看如下操作：
+Jenkins这东西搭建起来真是一点也不省心啊，看着别人的教程摸着石头过河，配置的东西有点多啊，稍有不慎，就构建不成功啦！即使步骤跟别人一样也会报各种乱七八糟的错误啊哈哈~~ 这东西只能佛系搭建~~ 在经历几十次的随缘构建之后，终于构建成功啦~~ 好感人！眼泪掉下来。。。。。。在此做下记录，造福广大群众！阿弥陀佛~~ 废话少说，且看如下操作：
 
 ## 下载Jenkins并安装
 
@@ -178,12 +178,12 @@ app/build/outputs/release/*.apk的意思是匹配app/build/outputs/release路径
 
 可通过以下途径关注本人
 
-- 个人网站 https://zachary46.xyz
+- 个人网站 [http://zachary46.xyz](http://zachary46.xyz)
 
-- Github https://github.com/Zachary46
+- Github [https://github.com/Zachary46](https://github.com/Zachary46)
 
-- CSDN博客 https://blog.csdn.net/Zachary_46
+- CSDN博客 [https://blog.csdn.net/Zachary_46](https://blog.csdn.net/Zachary_46)
 
-- 博客园 https://www.cnblogs.com/Zachary46
+- 博客园 [https://www.cnblogs.com/Zachary46](https://www.cnblogs.com/Zachary46)
 
-- 掘金 https://juejin.im/user/5b57e9a16fb9a04f8e1432ef
+- 掘金 [https://juejin.im/user/5b57e9a16fb9a04f8e1432ef](https://juejin.im/user/5b57e9a16fb9a04f8e1432ef)
