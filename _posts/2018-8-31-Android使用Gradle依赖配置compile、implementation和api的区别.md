@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Android使用Gradle依赖配置compile、implementation和api的区别"
-category: personal website
+category: Android
 date:   2018-8-31 
 categories: Android
 
