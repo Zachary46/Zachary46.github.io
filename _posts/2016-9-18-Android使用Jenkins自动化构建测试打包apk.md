@@ -3,7 +3,7 @@ layout: post
 title:  "Android使用Jenkins自动化构建测试打包apk"
 category: Android
 date:   2016-9-18 
-categories: Android
+categories: Java
 
 ---
 
