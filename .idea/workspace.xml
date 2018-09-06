@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8da39b6e-c998-453c-97ab-19a9b94b7b13" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-9-1-Android最火热修复实战.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-9-2-Android Studio常用快捷键(Mac).md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-9-3-为Github项目说明添加优美标签.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2016-9-18-Android使用Jenkins自动化构建测试打包apk.md" afterPath="$PROJECT_DIR$/_posts/2016-9-18-Android使用Jenkins自动化构建测试打包apk.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-3-1-Android 6.0、7.0、8.0、9.0适配.md" afterPath="$PROJECT_DIR$/_posts/2017-3-1-Android 6.0、7.0、8.0、9.0适配.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2018-8-31-Android使用Gradle依赖配置compile、implementation和api的区别.md" afterPath="$PROJECT_DIR$/_posts/2018-8-31-Android使用Gradle依赖配置compile、implementation和api的区别.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/demo.md" afterPath="$PROJECT_DIR$/_posts/demo.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2018-9-3-为Github项目说明添加优美标签.md" afterPath="$PROJECT_DIR$/_posts/2018-9-3-为Github项目说明添加优美标签.md" />
     </list>
     <ignored path="Zachary46.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,7 +23,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2018-8-31-Android使用Gradle依赖配置compile、implementation和api的区别.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2018-8-31-Android使用Gradle依赖配置compile、implementation和api的区别.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2018-8-31-Android使用Gradle依赖配置compile、implementation和api的区别.md">
           <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
@@ -78,7 +71,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-9-1-Android最火热修复实战.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2018-9-1-Android最火热修复实战.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2018-9-1-Android最火热修复实战.md">
           <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
@@ -86,7 +79,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
               <first_editor vertical-scroll-proportion="0.234375">
-                <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+                <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -117,8 +110,8 @@
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="0.06392045">
-                <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+              <first_editor vertical-scroll-proportion="1.2144886">
+                <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -805,34 +798,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-9-1-Android最火热修复实战.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.234375">
-            <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-9-3-为Github项目说明添加优美标签.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.06392045">
-            <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-9-2-Android Studio常用快捷键(Mac).md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
@@ -855,6 +820,34 @@
         <state split_layout="FIRST">
           <first_editor vertical-scroll-proportion="0.10653409">
             <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-9-3-为Github项目说明添加优美标签.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor vertical-scroll-proportion="1.2144886">
+            <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-9-1-Android最火热修复实战.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor vertical-scroll-proportion="0.234375">
+            <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
